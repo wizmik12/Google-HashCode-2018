@@ -1,5 +1,6 @@
 # Google Hashcode 2018
 ![example of how our solution did with no_hurry file](https://github.com/thebooort/Google-HashCode-2018/blob/master/Captura%20de%20pantalla%20de%202018-03-02%2012-51-31.png)
+
 Here you have the code we develop for the online qualification round. You can find the problem statement and the input files.
 We have a lot of fun developing it, hope you can find it interesting.
 ***
