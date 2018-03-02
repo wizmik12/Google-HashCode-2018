@@ -1,4 +1,5 @@
-###Google Hashcode 2018
+### Google Hashcode 2018
+
 Here you have the code we develop for the online qualification round. You can find the problem statement and the input files.
 We have a lot of fun developing it, hope you can find it interesting.
 ***
