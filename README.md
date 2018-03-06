@@ -5,7 +5,7 @@ Here you have the code we develop for the online qualification round. You can fi
 We have a lot of fun developing it, hope you can find it interesting.
 ***
 ### Group members
-See our github in the contributors' repository
+See our github in the contributors of this repository
 - Cristina Seva Villacampa
 - Miguel Lopez Perez
 - Bartolomé Ortiz Viso 
