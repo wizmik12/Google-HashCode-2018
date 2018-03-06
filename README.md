@@ -4,6 +4,12 @@
 Here you have the code we develop for the online qualification round. You can find the problem statement and the input files.
 We have a lot of fun developing it, hope you can find it interesting.
 ***
+### Group members
+See our github in the contributors' repository
+- Cristina Seva Villacampa
+- Miguel Lopez Perez
+- Bartolomé Ortiz Viso 
+***
 Online round ranking results:
  - GranadaGDGHub: 2º pos.
  - Spain: 165º pos.
