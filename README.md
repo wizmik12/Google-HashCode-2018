@@ -15,9 +15,8 @@ Online round ranking results:
  - Spain: 165º pos.
  - World: 3125º pos.
 
-Extended round ranking results: (still running)
- - GranadaHUB
- - Spain
- - World
+Extended round ranking results: 
+ - GranadaHUB: 2º pos.
+ - Spain: 112º pos.
+ - World: 1706º pos.
 ***
-Please note that this repository isn't finished yet. We are still developping our code for the extended round in order to see how far we can go.
